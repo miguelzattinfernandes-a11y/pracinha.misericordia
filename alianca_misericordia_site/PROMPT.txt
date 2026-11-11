@@ -1,0 +1,31 @@
+PROMPT — SITE DE VÍDEO | ALIANÇA DE MISERICÓRDIA
+
+Crie um site institucional minimalista, elegante e responsivo para a Aliança de Misericórdia, utilizando exclusivamente HTML5, CSS3 e JavaScript puro (sem frameworks e sem banco de dados).
+
+REFERÊNCIA VISUAL
+Use como referência de identidade visual o site https://misericordia.com.br/. Observe a linguagem institucional, a sobriedade e o uso de cores. Desenvolva uma composição própria, sem copiar o layout do site de referência. Trabalhe com fundo off-white, tons de vinho/vermelho escuro como destaque, grafite e cinzas quentes. A estética deve transmitir acolhimento, fé, serenidade e profissionalismo.
+
+OBJETIVO E ESTRUTURA
+O site deve conter somente um vídeo horizontal. Não adicionar menu, cabeçalho de navegação, rodapé informativo, notícias, botões extras, formulários ou seções adicionais.
+
+ABERTURA ANIMADA
+Ao acessar o endereço, exiba uma tela de abertura em tela cheia com o nome “Aliança de Misericórdia”. A entrada deve ter animação suave de opacidade e deslocamento vertical, com tipografia elegante. Após aproximadamente 3 segundos, a abertura deve desaparecer com fade-out e revelar a área do vídeo. Respeite a preferência do sistema por movimento reduzido.
+
+VÍDEO
+O vídeo deve ficar centralizado, em formato horizontal 16:9, com largura fluida e altura proporcional. Deve funcionar em desktop, tablet e celular. Use controles nativos, playsinline e preload metadata. Não cortar o conteúdo do vídeo: utilize object-fit: contain. O vídeo deve ser carregado localmente de assets/video.mp4. Se o arquivo não estiver presente, mostre uma mensagem discreta orientando a colocá-lo nessa pasta.
+
+DESIGN E ACABAMENTO
+Use bastante respiro, bordas discretas, sombras suaves e detalhes gráficos mínimos. O vídeo é o protagonista absoluto. Evite excesso de elementos, efeitos chamativos e aparência genérica de template. Garanta boa legibilidade e contraste.
+
+REQUISITOS TÉCNICOS
+- Entregar index.html, style.css e script.js separados.
+- JavaScript puro, sem bibliotecas obrigatórias.
+- Código organizado, comentado e fácil de editar.
+- Layout responsivo e acessível.
+- Não reproduzir áudio automaticamente.
+- Não inventar logotipo oficial: usar o nome tipográfico caso não haja arquivo de marca fornecido.
+- Incluir instruções de instalação e substituição do vídeo em um README.
+- Entregar tudo em uma pasta compactada ZIP.
+
+RESULTADO ESPERADO
+Uma experiência simples e refinada: o visitante entra, vê a animação “Aliança de Misericórdia” e, em seguida, encontra apenas o vídeo horizontal centralizado.
